@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kiranpreetsohi/list-todo.git/static/css/main.b5312144.css",
+    "main.js": "/Kiranpreetsohi/list-todo.git/static/js/main.ce3466e5.js",
+    "static/js/787.cd017f4b.chunk.js": "/Kiranpreetsohi/list-todo.git/static/js/787.cd017f4b.chunk.js",
+    "index.html": "/Kiranpreetsohi/list-todo.git/index.html",
+    "main.b5312144.css.map": "/Kiranpreetsohi/list-todo.git/static/css/main.b5312144.css.map",
+    "main.ce3466e5.js.map": "/Kiranpreetsohi/list-todo.git/static/js/main.ce3466e5.js.map",
+    "787.cd017f4b.chunk.js.map": "/Kiranpreetsohi/list-todo.git/static/js/787.cd017f4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5312144.css",
+    "static/js/main.ce3466e5.js"
+  ]
+}
